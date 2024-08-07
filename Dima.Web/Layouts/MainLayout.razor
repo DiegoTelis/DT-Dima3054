@@ -1,0 +1,53 @@
+﻿@inherits LayoutComponentBase
+
+<MudThemeProvider @ref="_mudThemeProvider" @bind-IsDarkMode="_isDarkMode" Theme="Configuration.Theme" />
+@* <MudDialogProvider /> Para usar modal *@
+<MudSnackbarProvider />
+
+<AuthorizeView>
+    <Authorized>
+        <MudLayout>
+            <MudAppBar>
+                Dima
+                <MudSpacer />
+                <MudText>Bem-vindo(a) - @context.User.Identity?.Name</MudText>
+                <MudSwitch @bind-Value="@_isDarkMode" />
+            </MudAppBar>
+            <MudMainContent>
+                <MudContainer>
+                    @Body
+                </MudContainer>
+            </MudMainContent>
+        </MudLayout>
+    </Authorized>
+    <NotAuthorized>
+        <LoginRedirect />
+    </NotAuthorized>
+</AuthorizeView>
+
+@code {
+    private bool _isDarkMode = true;
+
+    //para ficar escutando o S.O se acaso trocar o thema dele
+    //System Preferences Watcher
+    //recurso do JS includo no Mudblazor
+    private MudThemeProvider _mudThemeProvider = null!;
+
+    //após a renderização de tds componentes
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if(firstRender)
+        {
+            _isDarkMode = await _mudThemeProvider.GetSystemPreference();
+            await _mudThemeProvider.WatchSystemPreference(OnSystemPreferenceChanged) ;
+        }
+    }
+
+    private Task OnSystemPreferenceChanged(bool newValue)
+    {
+        _isDarkMode = newValue;
+        StateHasChanged(); // Tarefas em backgroud n atualizam a tela, aqui força essa atualização
+        return Task.CompletedTask;
+    }
+
+}

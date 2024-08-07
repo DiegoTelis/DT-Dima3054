@@ -1,0 +1,17 @@
+﻿@inject NavigationManager NavigationManager
+
+<h3>Redirencionando para o login ...</h3>
+
+@code{
+    protected override void OnInitialized()
+    {
+        
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await Task.Delay(5000);
+        NavigationManager.NavigateTo("/login");
+    }
+
+}
