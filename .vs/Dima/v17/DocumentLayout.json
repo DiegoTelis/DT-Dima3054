@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\CursoBalta\\Dima\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CursoBalta\\Dima\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|c:\\cursobalta\\dima\\dima.web\\security\\cookieauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\security\\cookieauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,15 +15,15 @@
       "RelativeMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\pages\\identity\\login.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{229E1760-702E-496A-BC6A-1C8CB3716C52}|Dima.Api\\Dima.Api.csproj|c:\\cursobalta\\dima\\dima.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{229E1760-702E-496A-BC6A-1C8CB3716C52}|Dima.Api\\Dima.Api.csproj|C:\\CursoBalta\\Dima\\dima.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{229E1760-702E-496A-BC6A-1C8CB3716C52}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|c:\\cursobalta\\dima\\dima.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|C:\\CursoBalta\\Dima\\dima.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|c:\\cursobalta\\dima\\dima.web\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|C:\\CursoBalta\\Dima\\dima.web\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
@@ -62,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,7 +82,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\CursoBalta\\Dima\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\CursoBalta\\Dima\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-07T14:54:49.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Api\\Models\\User.cs",
               "RelativeDocumentMoniker": "Dima.Api\\Models\\User.cs",
@@ -86,12 +103,11 @@
               "RelativeToolTip": "Dima.Api\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T14:02:16.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T14:02:16.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\Program.cs",
               "RelativeDocumentMoniker": "Dima.Web\\Program.cs",
@@ -99,12 +115,11 @@
               "RelativeToolTip": "Dima.Web\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T13:49:37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T13:49:37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\wwwroot\\appsettings.json",
               "RelativeDocumentMoniker": "Dima.Web\\wwwroot\\appsettings.json",
@@ -112,12 +127,11 @@
               "RelativeToolTip": "Dima.Web\\wwwroot\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-07T13:05:38.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T13:05:38.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\_Imports.razor",
               "RelativeDocumentMoniker": "Dima.Web\\_Imports.razor",
@@ -129,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LoginRedirect.razor",
               "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\Components\\Identity\\LoginRedirect.razor",
               "RelativeDocumentMoniker": "Dima.Web\\Components\\Identity\\LoginRedirect.razor",
@@ -137,12 +151,11 @@
               "RelativeToolTip": "Dima.Web\\Components\\Identity\\LoginRedirect.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-06T20:42:49.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T20:42:49.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\Layouts\\MainLayout.razor",
               "RelativeDocumentMoniker": "Dima.Web\\Layouts\\MainLayout.razor",
@@ -154,20 +167,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CookieAuthenticationStateProvider.cs",
               "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\Security\\CookieAuthenticationStateProvider.cs",
               "RelativeDocumentMoniker": "Dima.Web\\Security\\CookieAuthenticationStateProvider.cs",
               "ToolTip": "C:\\CursoBalta\\Dima\\Dima.Web\\Security\\CookieAuthenticationStateProvider.cs",
               "RelativeToolTip": "Dima.Web\\Security\\CookieAuthenticationStateProvider.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAswDMAAAAbAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswCkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-06T19:56:43.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Logout.razor.cs",
               "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\Pages\\Identity\\Logout.razor.cs",
               "RelativeDocumentMoniker": "Dima.Web\\Pages\\Identity\\Logout.razor.cs",
@@ -179,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Logout.razor",
               "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\Pages\\Identity\\Logout.razor",
               "RelativeDocumentMoniker": "Dima.Web\\Pages\\Identity\\Logout.razor",
@@ -191,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Register.razor",
               "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\Pages\\Identity\\Register.razor",
               "RelativeDocumentMoniker": "Dima.Web\\Pages\\Identity\\Register.razor",
@@ -203,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Register.razor.cs",
               "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\Pages\\Identity\\Register.razor.cs",
               "RelativeDocumentMoniker": "Dima.Web\\Pages\\Identity\\Register.razor.cs",
@@ -215,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Login.razor",
               "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\Pages\\Identity\\Login.razor",
               "RelativeDocumentMoniker": "Dima.Web\\Pages\\Identity\\Login.razor",
@@ -227,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Login.razor.cs",
               "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\Pages\\Identity\\Login.razor.cs",
               "RelativeDocumentMoniker": "Dima.Web\\Pages\\Identity\\Login.razor.cs",
@@ -235,8 +248,7 @@
               "RelativeToolTip": "Dima.Web\\Pages\\Identity\\Login.razor.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAIwDcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T19:35:58.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T19:35:58.437Z"
             }
           ]
         }
