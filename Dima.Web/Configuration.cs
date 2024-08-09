@@ -1,4 +1,5 @@
 ﻿using MudBlazor;
+using MudBlazor.Utilities;
 
 namespace Dima.Web
 {
@@ -24,16 +25,16 @@ namespace Dima.Web
 
             PaletteLight = new PaletteLight
             {
-                Primary = new MudBlazor.Utilities.MudColor("#1EFA2D"),
+                Primary = new MudColor("#1EFA2D"),
+                PrimaryContrastText = new MudColor("#000000"),
                 Secondary = Colors.LightGreen.Darken3,
                 // Tertiary = Colors.....  Não usada
                 Background = Colors.Gray.Lighten4,
-                AppbarBackground = new MudBlazor.Utilities.MudColor("1EFA2D"),
+                AppbarBackground = new MudColor("1EFA2D"),
                 AppbarText = Colors.Shades.Black,
                 TextPrimary = Colors.Shades.Black,
-                PrimaryContrastText = Colors.Shades.Black,
-                DrawerText = Colors.Shades.Black, // Cor do menu Lateral
-                DrawerBackground = Colors.LightGreen.Lighten4
+                DrawerText = Colors.Shades.White, // Cor do menu Lateral
+                DrawerBackground = Colors.Green.Darken4
             },
 
 
@@ -42,10 +43,9 @@ namespace Dima.Web
                 Primary = Colors.LightGreen.Accent3,
                 Secondary = Colors.LightGreen.Darken3,
                 AppbarBackground = Colors.LightGreen.Accent3,
-                AppbarText = Colors.Shades.Black
+                AppbarText = Colors.Shades.Black,
+                PrimaryContrastText = new MudColor("#000000")
             }
-
-
         };
     }
 }

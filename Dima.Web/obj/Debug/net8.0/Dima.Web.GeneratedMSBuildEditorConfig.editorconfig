@@ -33,6 +33,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJZGVudGl0eVxMb2dpblJlZGlyZWN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/CursoBalta/Dima/Dima.Web/Components/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/CursoBalta/Dima/Dima.Web/Layouts/HeadlessLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0c1xIZWFkbGVzc0xheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

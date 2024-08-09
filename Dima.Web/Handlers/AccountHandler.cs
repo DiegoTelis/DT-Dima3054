@@ -28,7 +28,7 @@ public class AccountHandler(IHttpClientFactory httpClientFactory) : IAccountHand
     public async Task LogoutAsync()
     {
         var emptyContent = new StringContent("{}", Encoding.UTF8, "application/json");
-        await _httpClient.PatchAsJsonAsync("v1/identity/logout", emptyContent);
+        await _httpClient.PostAsJsonAsync("v1/identity/logout", emptyContent);
     }
 
 }

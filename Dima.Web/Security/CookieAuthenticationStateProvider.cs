@@ -43,9 +43,10 @@ namespace Dima.Web.Security
         {
             try
             {
-                var x1 =  await _httpClient.GetAsync("v1/identity/manage/info");
-                var x =  await _httpClient.GetFromJsonAsync<User?>("v1/identity/manage/info");
-                return x;
+                //var x1 =  await _httpClient.GetAsync("v1/identity/manage/info");
+                //var x =  await _httpClient.GetFromJsonAsync<User?>("v1/identity/manage/info");
+                //return x;
+                return await _httpClient.GetFromJsonAsync<User?>("v1/identity/manage/info");
             }
             catch (Exception ex) 
             {

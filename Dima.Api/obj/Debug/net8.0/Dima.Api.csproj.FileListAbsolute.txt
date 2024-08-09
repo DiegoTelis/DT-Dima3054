@@ -39,6 +39,8 @@ C:\CursoBalta\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\CursoBalta\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\CursoBalta\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\CursoBalta\Dima\Dima.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\CursoBalta\Dima\Dima.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\CursoBalta\Dima\Dima.Api\bin\Debug\net8.0\Stripe.net.dll
 C:\CursoBalta\Dima\Dima.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\CursoBalta\Dima\Dima.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\CursoBalta\Dima\Dima.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -129,6 +131,7 @@ C:\CursoBalta\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.AssemblyInfo.cs
 C:\CursoBalta\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.csproj.CoreCompileInputs.cache
 C:\CursoBalta\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\CursoBalta\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\CursoBalta\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.sourcelink.json
 C:\CursoBalta\Dima\Dima.Api\obj\Debug\net8.0\staticwebassets.build.json
 C:\CursoBalta\Dima\Dima.Api\obj\Debug\net8.0\staticwebassets.development.json
 C:\CursoBalta\Dima\Dima.Api\obj\Debug\net8.0\staticwebassets\msbuild.Dima.Api.Microsoft.AspNetCore.StaticWebAssets.props
@@ -143,5 +146,3 @@ C:\CursoBalta\Dima\Dima.Api\obj\Debug\net8.0\refint\Dima.Api.dll
 C:\CursoBalta\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.pdb
 C:\CursoBalta\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.genruntimeconfig.cache
 C:\CursoBalta\Dima\Dima.Api\obj\Debug\net8.0\ref\Dima.Api.dll
-C:\CursoBalta\Dima\Dima.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
-C:\CursoBalta\Dima\Dima.Api\bin\Debug\net8.0\Stripe.net.dll

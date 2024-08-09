@@ -1084,3 +1084,4 @@ C:\CursoBalta\Dima\Dima.Web\obj\Debug\net8.0\compressed\3rrtxwix54.gz
 C:\CursoBalta\Dima\Dima.Web\obj\Debug\net8.0\compressed\x2i8mo9lol.gz
 C:\CursoBalta\Dima\Dima.Web\obj\Debug\net8.0\compressed\ebtqekmtmn.gz
 C:\CursoBalta\Dima\Dima.Web\obj\Debug\net8.0\compressed\g4uhqor03y.gz
+C:\CursoBalta\Dima\Dima.Web\obj\Debug\net8.0\Dima.Web.sourcelink.json
