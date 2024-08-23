@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\CursoBalta\\Dima\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|c:\\cursobalta\\dima\\dima.web\\handlers\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\handlers\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|C:\\CursoBalta\\Dima\\dima.web\\pages\\categories\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\pages\\categories\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|c:\\cursobalta\\dima\\dima.web\\handlers\\categoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\handlers\\categoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|c:\\cursobalta\\dima\\dima.web\\layouts\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\layouts\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AC7FAFB-3AEC-4764-842F-89075975B814}|Dima.Core\\Dima.Core.csproj|c:\\cursobalta\\dima\\dima.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AC7FAFB-3AEC-4764-842F-89075975B814}|Dima.Core\\Dima.Core.csproj|solutionrelative:dima.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|c:\\cursobalta\\dima\\dima.web\\pages\\categories\\list.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\pages\\categories\\list.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|c:\\cursobalta\\dima\\dima.web\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|C:\\CursoBalta\\Dima\\dima.web\\pages\\categories\\create.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\pages\\categories\\create.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|c:\\cursobalta\\dima\\dima.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|c:\\cursobalta\\dima\\dima.web\\components\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\components\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|c:\\cursobalta\\dima\\dima.web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|c:\\cursobalta\\dima\\dima.web\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|C:\\CursoBalta\\Dima\\dima.web\\pages\\categories\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1643EF4D-83A4-4778-BDF9-A58EC4846486}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\pages\\categories\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,67 +58,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Core\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Dima.Core\\Models\\Category.cs",
-              "ToolTip": "C:\\CursoBalta\\Dima\\Dima.Core\\Models\\Category.cs",
-              "RelativeToolTip": "Dima.Core\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T15:04:15.581Z",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\Layouts\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Dima.Web\\Layouts\\MainLayout.razor",
+              "ToolTip": "C:\\CursoBalta\\Dima\\Dima.Web\\Layouts\\MainLayout.razor",
+              "RelativeToolTip": "Dima.Web\\Layouts\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T18:24:12.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\Configuration.cs",
-              "RelativeDocumentMoniker": "Dima.Web\\Configuration.cs",
-              "ToolTip": "C:\\CursoBalta\\Dima\\Dima.Web\\Configuration.cs",
-              "RelativeToolTip": "Dima.Web\\Configuration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T14:54:11.091Z",
+              "DocumentIndex": 5,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\App.razor",
+              "RelativeDocumentMoniker": "Dima.Web\\App.razor",
+              "ToolTip": "C:\\CursoBalta\\Dima\\Dima.Web\\App.razor",
+              "RelativeToolTip": "Dima.Web\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T18:22:57.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Dima.Web\\Pages\\Home.razor",
+              "ToolTip": "C:\\CursoBalta\\Dima\\Dima.Web\\Pages\\Home.razor",
+              "RelativeToolTip": "Dima.Web\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T18:22:51.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\Program.cs",
-              "RelativeDocumentMoniker": "Dima.Web\\Program.cs",
-              "ToolTip": "C:\\CursoBalta\\Dima\\Dima.Web\\Program.cs \u2B24",
-              "RelativeToolTip": "Dima.Web\\Program.cs \u2B24",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T14:45:14.38Z",
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\Components\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Dima.Web\\Components\\NavMenu.razor",
+              "ToolTip": "C:\\CursoBalta\\Dima\\Dima.Web\\Components\\NavMenu.razor",
+              "RelativeToolTip": "Dima.Web\\Components\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T18:20:38.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoryHandler.cs",
-              "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\Handlers\\CategoryHandler.cs",
-              "RelativeDocumentMoniker": "Dima.Web\\Handlers\\CategoryHandler.cs",
-              "ToolTip": "C:\\CursoBalta\\Dima\\Dima.Web\\Handlers\\CategoryHandler.cs",
-              "RelativeToolTip": "Dima.Web\\Handlers\\CategoryHandler.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAQwB0AAABTAAAA",
+              "DocumentIndex": 2,
+              "Title": "List.razor.cs",
+              "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\Pages\\Categories\\List.razor.cs",
+              "RelativeDocumentMoniker": "Dima.Web\\Pages\\Categories\\List.razor.cs",
+              "ToolTip": "C:\\CursoBalta\\Dima\\Dima.Web\\Pages\\Categories\\List.razor.cs",
+              "RelativeToolTip": "Dima.Web\\Pages\\Categories\\List.razor.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T14:44:54.984Z",
+              "WhenOpened": "2024-08-12T18:31:30.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TransactionHandler.cs",
-              "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\Handlers\\TransactionHandler.cs",
-              "RelativeDocumentMoniker": "Dima.Web\\Handlers\\TransactionHandler.cs",
-              "ToolTip": "C:\\CursoBalta\\Dima\\Dima.Web\\Handlers\\TransactionHandler.cs \u2B24",
-              "RelativeToolTip": "Dima.Web\\Handlers\\TransactionHandler.cs \u2B24",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Title": "List.razor",
+              "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\Pages\\Categories\\List.razor",
+              "RelativeDocumentMoniker": "Dima.Web\\Pages\\Categories\\List.razor",
+              "ToolTip": "C:\\CursoBalta\\Dima\\Dima.Web\\Pages\\Categories\\List.razor \u2B24",
+              "RelativeToolTip": "Dima.Web\\Pages\\Categories\\List.razor \u2B24",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T18:30:28.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.razor.cs",
+              "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\Pages\\Categories\\Create.razor.cs",
+              "RelativeDocumentMoniker": "Dima.Web\\Pages\\Categories\\Create.razor.cs",
+              "ToolTip": "C:\\CursoBalta\\Dima\\Dima.Web\\Pages\\Categories\\Create.razor.cs",
+              "RelativeToolTip": "Dima.Web\\Pages\\Categories\\Create.razor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T14:44:15.118Z",
+              "WhenOpened": "2024-08-12T17:56:35.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\CursoBalta\\Dima\\Dima.Web\\Pages\\Categories\\Create.razor",
+              "RelativeDocumentMoniker": "Dima.Web\\Pages\\Categories\\Create.razor",
+              "ToolTip": "C:\\CursoBalta\\Dima\\Dima.Web\\Pages\\Categories\\Create.razor",
+              "RelativeToolTip": "Dima.Web\\Pages\\Categories\\Create.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T17:56:05.495Z",
               "EditorCaption": ""
             }
           ]

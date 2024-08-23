@@ -1,8 +1,13 @@
 ﻿@inherits LayoutComponentBase
 
 <MudThemeProvider @ref="_mudThemeProvider" @bind-IsDarkMode="_isDarkMode" Theme="Configuration.Theme" />
-@* <MudDialogProvider /> Para usar modal *@
+<MudPopoverProvider />
+<MudDialogProvider /> 
 <MudSnackbarProvider />
+
+
+
+
 
 <AuthorizeView>
     <Authorized>
@@ -25,8 +30,8 @@
             <MudDrawer @bind-Open="_isDrawerOpened">
                 <NavMenu />
             </MudDrawer>
-            <MudMainContent>
-                <MudContainer>
+            <MudMainContent >
+                <MudContainer Class="mt-4">
                     @Body
                 </MudContainer>
             </MudMainContent>
